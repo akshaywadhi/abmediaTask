@@ -16,7 +16,7 @@ export default function HeroBanner() {
         color: '#fff'
       }}
     >
-      {/* Overlay */}
+     
       <Box
         sx={{
           position: 'absolute',
@@ -29,7 +29,7 @@ export default function HeroBanner() {
         }}
       />
 
-      {/* Content */}
+     
       <Container
         sx={{
           position: 'relative',
